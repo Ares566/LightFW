@@ -38,21 +38,7 @@
 <body>
 
 <div id="app">
-    <div class="home">
-        <div class="conf-closer">
-            <div class="closer-headpanel">
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="closer-body">
-                <div class="closer-body-holder"><h1 class="closer-title-h1">OPEN WIDGET</h1>
-                    <h2 class="closer-title-h2"> Вам нужна видеосвязь с клиентами на сайте в 1 клик. <br>Так вы удивите
-                        покупателей, повысите конверсию <br>и взбодрите продажи после карантина. </h2></div>
-            </div>
-            <div></div>
-        </div>
-    </div>
+    
 </div>
 </body>
 </html>
