@@ -1,0 +1,2 @@
+# LightFW
+Light PHP framework
