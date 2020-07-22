@@ -36,8 +36,8 @@
 </head>
 <body>
 
-<div id="app">
-    
-</div>
+    <div id="app">
+        <?=$this->content;?>
+    </div>
 </body>
 </html>
